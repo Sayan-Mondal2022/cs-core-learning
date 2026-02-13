@@ -1,2 +1,3 @@
-# cs-core-learning
-This repo will contain everything related to Computer Science Fundamentals
+# CS Core Learning Repository
+
+This repository contains my preparation for placements and interviews.
